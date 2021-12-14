@@ -1,0 +1,132 @@
+[
+  {
+    "_id": "c-05",
+    "_parentId": "b-40",
+    "_type": "component",
+    "_component": "narrative",
+    "_classes": "",
+    "_layout": "full",
+    "_comment": "setCompletionOn = inview | allItems",
+    "_setCompletionOn": "allItems",
+    "_hasNavigationInTextArea": false,
+    "title": "",
+    "displayTitle": "Lección 1",
+    "body": "<label class=\"first-module\" >Módulo 1</label> <strong>Conceptos básicos</strong> de justicia restaurativa, criminología, política criminal, prevención del delito y los fines de la pena",
+    "instruction": "",
+    "_items": [
+      {
+        "title": "",
+        "body": "<label>La justicia restaurativa</label> <p><strong>Es un enfoque que</strong> ofrece a los delincuentes, las víctimas y la comunidad una alternativa para alcanzar la justicia. Promueve la participación segura de las víctimas en la resolución de la situación y ofrece a las personas que aceptan la responsabilidad por el daño causado por sus acciones una oportunidad para hacerse responsables ante aquellos a quienes han dañado. Se basa en el reconocimiento por parte de los criminales y declara que el comportamiento delictivo no sólo viola la ley, sino que también daña a las víctimas y a la comunidad (UNODC, 2020)</p> <button onclick=\"showInfo(1)\" class=\"more-info\">Más información</button> <div id=\"1\"></div>",
+        "_graphic": {
+          "src": "course/en/images/Lessons/FirstLesson/slide1.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "",
+        "body": "<label>La prevención del delito</label> <p><strong>La prevención del delito se ha convertido</strong> en un componente cada vez más importante de muchas estrategias nacionales de seguridad pública. El concepto de prevención se basa en la idea de que el delito y la victimización se ven favorecidos por numerosos factores causales o de fondo, los cuales son resultado de una amplia gama de elementos y circunstancias que influyen en la vida de las personas y las familias a medida que pasa el tiempo, y de los entornos locales, así como situaciones y oportunidades que facilitan la victimización y la delincuencia</p> <button onclick=\"showInfo(2)\" class=\"more-info\">Más información</button> <div id=\"2\"></div>",
+        "_graphic": {
+          "src": "course/en/images/Lessons/FirstLesson/slide2.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "",
+        "body": "<label>La política criminal</label> <p><strong>La Corte Constitucional colombiana ha definido la política criminal en los siguientes términos:</strong><br/> “Es el conjunto de respuestas que un Estado estima necesario adoptar para hacerle frente a conductas consideradas reprochables o causantes de perjuicio social con el fin de garantizar la protección de los intereses esenciales del Estado y de los derechos de los residentes en el territorio bajo su jurisdicción. Dicho conjunto de respuestas puede ser de la más variada índole.</p> <button onclick=\"showInfo(3)\" class=\"more-info\">Más información</button> <div id=\"3\"></div>",
+        "_graphic": {
+          "src": "course/en/images/Lessons/FirstLesson/slide3.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "",
+        "body": "<label>La criminología</label> <p><strong>Por su parte, la criminología es</strong> la totalidad ordenada del saber empírico sobre el delito, los delincuentes, la reacción social negativa y el control de esa conducta. Científicamente representa el lado empírico de todas las disciplinas jurídicas del derecho penal (Roxin, 1997)</p>",
+        "_graphic": {
+          "src": "course/en/images/Lessons/FirstLesson/slide4.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      },
+      {
+        "title": "",
+        "body": "<label>Los fines de la pena</label> <p><strong>Los artículos 4º y 5º del Código Penal establecen los fines de la pena y de las medidas de seguridad,</strong> los cuales guían la actividad del derecho penal y del sistema penal colombiano. <br/> La academia del derecho penal ha identificado desde la antigüedad teorías fundamentales del fin de la pena, que aún dominan la discusión en diversas combinaciones entre ellas. En general se han identificado tres grandes fines de la pena: la retribución, la prevención general y la prevención especial (Roxin, 1997). </p> <button onclick=\"showInfo(4)\" class=\"more-info\">Más información</button> <div id=\"4\"></div> <div id=\"bibliography\"></div>",
+        "_graphic": {
+          "src": "course/en/images/Lessons/FirstLesson/slide5.png",
+          "alt": ""
+        },
+        "strapline": "Narrative item 1"
+      }
+    ]
+  },
+  {
+    "_id": "c-65",
+    "_parentId": "b-45",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Introduction",
+    "displayTitle": "<p>Teorías del fin de la pena en el <strong>pensamiento jurídico-penal</strong></p>",
+    "body": "<iframe class=\"pdf\" width=\"120%\" height=\"400px\" src=\"course/en/pdfs/one.pdf\"></iframe><div class=\"lesson-two-content\"><p>Por favor lea el siguiente documento páginas de las 81 a las 110: Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-70",
+    "_parentId": "b-45",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "_isOptional": true,
+    "title": "c-10",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/images/Lessons/SecondLesson/illustration.png",
+      "alt": "",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "c-75",
+    "_parentId": "b-50",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "left",
+    "title": "Introduction",
+    "displayTitle": "<p>Teorías del fin de la pena en el <strong>pensamiento jurídico-penal</strong></p>",
+    "body": "<iframe class=\"pdf\" width=\"120%\" height=\"400px\" src=\"course/en/pdfs/one.pdf\"></iframe><div class=\"lesson-two-content\"><p>Por favor lea el siguiente documento páginas de las 81 a las 110: Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
+    "instruction": "",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "_id": "c-80",
+    "_parentId": "b-50",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "_isOptional": true,
+    "title": "c-10",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/images/Lessons/SecondLesson/illustration.png",
+      "alt": "",
+      "attribution": ""
+    }
+  }
+]
