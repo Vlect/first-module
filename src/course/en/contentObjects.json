@@ -6,9 +6,9 @@
     "_classes": "",
     "_htmlClasses": "",
     "pageBody": "",
-    "linkText": "Conoce más del curso",
+    "linkText": "Conoce más del curso <img class=\"home-triangle\" src=\"course/en/images/Home/triangulo.png\"/>",
     "_graphic": {
-      "src": "course/en/images/Home/triangulo.png",
+      "src": "",
       "alt": ""
     },
     "_pageLevelProgress": {

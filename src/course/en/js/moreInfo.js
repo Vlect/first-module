@@ -38,10 +38,10 @@ Gutiérrez Quevedo, M  (2014). Hacia una justicia restaurativa. En: Política Cr
 Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas`;
 
 const closeButton = (slideNumber) =>
-  `<button class="close-button" onclick="closeSlide(${slideNumber})">x</button> <br/>`;
+  `<button class="close-button" onclick="closeSlide(${slideNumber})"><img src="course/en/images/Lessons/FirstLesson/close-icon.png"/></button> <br/>`;
 
 const bibliographyButton = `<button class="bibliography-button" onclick="openBibliographyCard()">Bibliografía</button> <br/>`;
-const bibliographyCloseButton = `<button class="close-button" onclick="closeBibliographyCard()">x</button> <br/>`;
+const bibliographyCloseButton = `<button class="close-button" onclick="closeBibliographyCard()"><img src="course/en/images/Lessons/FirstLesson/close-icon.png"/></button> <br/>`;
 
 let moreInfoButton;
 

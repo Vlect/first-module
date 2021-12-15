@@ -70,7 +70,7 @@
     "_layout": "left",
     "title": "Introduction",
     "displayTitle": "<p>Teorías del fin de la pena en el <strong>pensamiento jurídico-penal</strong></p>",
-    "body": "<iframe class=\"pdf\" width=\"120%\" height=\"400px\" src=\"course/en/pdfs/one.pdf\"></iframe><div class=\"lesson-two-content\"><p>Por favor lea el siguiente documento páginas de las 81 a las 110: Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
+    "body": "<div class=\"pdf-less\" id=\"pdf-container-one\"><iframe id=\"myIframe\" class=\"pdf\" width=\"100%\" height=\"100%\" src=\"course/en/pdfs/one.pdf\"></iframe></div><div onclick=\"showPdf('pdf-container-one')\" class=\"lesson-two-content\"><p>Por favor lea el siguiente documento páginas de las 81 a las 110: Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -103,8 +103,8 @@
     "_classes": "",
     "_layout": "left",
     "title": "Introduction",
-    "displayTitle": "<p>Teorías del fin de la pena en el <strong>pensamiento jurídico-penal</strong></p>",
-    "body": "<iframe class=\"pdf\" width=\"120%\" height=\"400px\" src=\"course/en/pdfs/one.pdf\"></iframe><div class=\"lesson-two-content\"><p>Por favor lea el siguiente documento páginas de las 81 a las 110: Roxin, C. (1997). Derecho Penal Parte General Tomo I Fundamentos. La estructura de la teoría del delito. Madrid: Civitas</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
+    "displayTitle": "<p><strong>La prisión perpetua</strong> en Colombia",
+    "body": "<div class=\"pdf-less\" id=\"pdf-container-two\"><iframe id=\"myIframe\" class=\"pdf\" width=\"100%\" height=\"100%\" src=\"course/en/pdfs/two.pdf\"></iframe></div><div onclick=\"showPdf('pdf-container-two')\" class=\"lesson-two-content\"><p>Por favor lea el siguiente documento: Corte Constitucional (2 de septiembre de 2021). Comunicado de prensa Sentencia C-294 de 2021. Acto legislativo 1 de 2020 (prisión perpetúa reversible).</p><img class=\"see-more\" src=\"course/en/images/Lessons/SecondLesson/vermas.png\"/></div>",
     "instruction": "",
     "_pageLevelProgress": {
       "_isEnabled": true,
