@@ -25,12 +25,12 @@
     "_classes": "first-module",
     "_htmlClasses": "",
     "title": "",
-    "displayTitle": "Módulo 1",
+    "displayTitle": "<p>Módulo 1</p> <img src=\"course/en/images/FirstModule/rectangulo.png\" />",
     "body": "<div class=\"module-text\" ><p>Conceptos básicos <strong>de justicia restaurativa, criminología, política criminal, prevención del delito y los fines de la pena</strong></p> <p><strong>Objetivo de aprendizaje:</strong> Analizar los conceptos básicos de justicia restaurativa, criminología, política  criminal, prevención del delito y los fines de la pena que guiarán el desarrollo del curso.</p></div> <img class=\"first-module-image\" src=\"course/en/images/FirstModule/illustration.png\" />",
     "pageBody": "",
     "instruction": "Scroll down to see what question components are available as part of the v5 core bundle.",
     "_graphic": {
-      "src": "course/en/images/FirstModule/rectangulo.png",
+      "src": "",
       "alt": ""
     },
     "_pageLevelProgress": {

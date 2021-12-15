@@ -43,5 +43,20 @@
       "_classes": "fade-in-right",
       "_percentInviewVertical": 50
     }
+  },
+  {
+    "_id": "b-55",
+    "_parentId": "a-10",
+    "_type": "block",
+    "_classes": "",
+    "title": "b-50",
+    "displayTitle": "",
+    "body": "",
+    "_trackingId": 20,
+    "_onScreen": {
+      "_isEnabled": true,
+      "_classes": "fade-in-right",
+      "_percentInviewVertical": 50
+    }
   }
 ]

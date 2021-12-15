@@ -128,5 +128,22 @@
       "alt": "",
       "attribution": ""
     }
+  },
+  {
+    "_id": "c-90",
+    "_parentId": "b-55",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "right",
+    "title": "c-10",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "src": "course/en/images/Congratulations/illustration.png",
+      "alt": "",
+      "attribution": ""
+    }
   }
 ]
